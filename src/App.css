@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: 'Söhne Schmal';
-  src: url(./assets/font/SohneSchmal-Fett.otf);
+  src: url(./assets/font/TestSohneSchmal-Halbfett.otf);
 }
 
 @font-face {
@@ -22,7 +22,7 @@
 }
 
 .ff_Maison_Neue {
-  font-family: ' Maison Neue';
+  font-family: 'Maison Neue';
 }
 
 .ff_space_mono {
@@ -126,7 +126,7 @@
 }
 
 .mx-width {
-  max-width: 822px;
+  max-width: 821px;
 }
 
 .hero_img {
@@ -815,7 +815,7 @@ nav ul {
     max-width: 75% !important;
     height: 69px;
     background: var(--color-11, #fff);
-    padding: 16px 0px 16px 20px;
+    padding: 32px 0px 32px 0px;
   }
 
   .min-vh70 {
